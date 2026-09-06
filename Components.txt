@@ -3,3 +3,5 @@ Rasperry pi 5
 Model
 Computer
 AI Agent
+Mobile Application
+Local Internet
