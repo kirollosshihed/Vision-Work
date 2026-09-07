@@ -2,3 +2,5 @@ Server or cloud
 NLP
 LLM
 RAG
+database
+python
